@@ -9,3 +9,7 @@
  ***     
  
  # SpotX-Win has been moved to https://github.com/amd64fox/SpotX
+
+
+## We need collaborators.
+- We are running short of people who can collaborate and maintain this project. If you are good with bash scripting, please create an issue here or contact Red.#1111 in discord.
