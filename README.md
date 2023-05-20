@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">        
-      <a href="https://discord.gg/p43cusgUPm"><img src="https://discord.com/api/guilds/807273906872123412/widget.png"></a>
+      <a href="https://discord.gg/eYudMwgYtY"><img src="https://discord.com/api/guilds/807273906872123412/widget.png"></a>
       </p>
 
  ***     
  
- # SpotX-Win has been moved to https://github.com/amd64fox/SpotX
+ # SpotX-Win is not supported by us anymore. And BlockTheSpot with better and improved features is back https://github.com/mrpond/BlockTheSpot
 
 
 ## We need collaborators.
